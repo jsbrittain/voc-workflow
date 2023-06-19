@@ -1,0 +1,3 @@
+[submodule "vocpl"]
+	path = vocpl
+	url = git@github.com:joetsui1994/vocpl.git
